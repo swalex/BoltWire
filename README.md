@@ -393,6 +393,3 @@ The original BoltWire project is Copyright (c) 2024 FrankenBit. This fork is mai
 - Inspired by ASP.NET Core's dependency injection system
 - Built for the Unity community
 
----
-
-**Note to Maintainers**: Update contact information, repository URLs, and any placeholder values before releasing.
