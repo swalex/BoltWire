@@ -60,9 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-**maintainers@yourdomain.example**.
-
-**⚠️ NOTE TO MAINTAINERS**: Replace `maintainers@yourdomain.example` with your actual contact email address or create a dedicated email for code of conduct reports.
+**maintainers@frankenbit.de**.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
